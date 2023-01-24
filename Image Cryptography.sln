@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Cryptography", "18155057-GoruntuSifreleme\Image Cryptography.csproj", "{F70F6DC0-94AF-43CF-9F27-CE2ED74A0952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70F6DC0-94AF-43CF-9F27-CE2ED74A0952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70F6DC0-94AF-43CF-9F27-CE2ED74A0952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70F6DC0-94AF-43CF-9F27-CE2ED74A0952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70F6DC0-94AF-43CF-9F27-CE2ED74A0952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB04F014-3502-489B-A59C-E1E371D07C20}
+	EndGlobalSection
+EndGlobal
